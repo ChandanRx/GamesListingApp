@@ -3,11 +3,17 @@ A simple web app that provides a list of popular games for users to explore.
 
 🚀 Features
 📋 Browse a collection of listed games
+
 🔍 Search functionality to find specific games 
+
 🎨 Clean and responsive UI
+
 🛠 Tech Stack
+
 Frontend: Next.js, Tailwind CSS
+
 Hosting: Vercel
+
 🌟 Live Demo
 🔗 https://games-listing-app-rosy.vercel.app/
 
