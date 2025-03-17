@@ -1,8 +1,14 @@
-# React + Vite
+🎮 Game Listing App
+A simple web app that provides a list of popular games for users to explore.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+📋 Browse a collection of listed games
+🔍 Search functionality to find specific games 
+🎨 Clean and responsive UI
+🛠 Tech Stack
+Frontend: Next.js, Tailwind CSS
+Hosting: Vercel
+🌟 Live Demo
+🔗 https://games-listing-app-rosy.vercel.app/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Uploading screencapture-games-listing-app-rosy-vercel-app-2025-03-17-17_29_35.png…]()
